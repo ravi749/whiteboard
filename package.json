@@ -1,0 +1,28 @@
+{
+  "name": "collaborativewhiteboard",
+  "version": "1.0.0",
+  "description": "Collaborative White Board to draw  circle,line ,rectangle and write",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "ExpressJs",
+    "NodeJs",
+    "SocketIO",
+    "WhiteBoard"
+  ],
+  "author": "Student",
+  "license": "ISC",
+  "bugs": {},
+  "homepage": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "socket.io": "^3.0.4"
+  }
+}
